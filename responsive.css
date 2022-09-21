@@ -1,0 +1,36 @@
+@media screen and (max-width:936px){
+   
+    nav{
+        flex-direction: column;
+    }
+    .search{
+        margin: 0 75px;
+    }
+    .logoset{
+        margin-right: 99px;
+        margin-left: 90px;
+        justify-content: center;
+
+    }
+    /* ul{
+        justify-content: center;
+        margin-left: 10px;
+    } */
+    .search input{
+        
+        width: 45vw;
+        margin-left: 35px;
+    }
+    .cart{
+        justify-content: flex-end;
+        margin-right: 9px;
+    }
+    .slider img{
+        width: 350px;
+        height: 150px;
+        margin-left: 4px;
+    }
+    .center{
+        margin-left: 77px;
+    }
+}
