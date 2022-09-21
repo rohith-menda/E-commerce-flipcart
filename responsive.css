@@ -9,6 +9,7 @@
     .logoset{
         margin-right: 99px;
         margin-left: 90px;
+        margin-top:30px;
         justify-content: center;
 
     }
@@ -17,7 +18,7 @@
         margin-left: 10px;
     } */
     .search input{
-        
+        margin-top:14px;
         width: 45vw;
         margin-left: 35px;
     }
@@ -27,7 +28,7 @@
     }
     .slider img{
         width: 350px;
-        height: 150px;
+        height: 220px;
         margin-left: 4px;
     }
     .center{
