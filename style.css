@@ -38,7 +38,7 @@ nav {
 }
 .search img{
     
-    padding: o 10px;
+    padding: 0 10px;
 }
 .searchimg{
     padding: 0 10px;
@@ -75,6 +75,9 @@ nav ul li{
     margin: 10px 0;
     justify-content: center;
     
+}
+.slider img{
+    margin:auto;
 }
 
 .cart{
