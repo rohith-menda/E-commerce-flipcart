@@ -5,6 +5,7 @@
     }
     .search{
         margin: 0 75px;
+       margin-bottom:16px;
     }
     .logoset{
         margin-right: 99px;
@@ -21,6 +22,7 @@
         margin-top:14px;
         width: 45vw;
         margin-left: 35px;
+       
     }
     .slider img{
         width: 350px;
