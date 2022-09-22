@@ -37,12 +37,9 @@ nav {
     border: 2px solid black;
     
 }
-.search img{
-    
-    padding: 0 10px;
-}
+
 .searchimg{
-    padding: 0 10px;
+   
     display: flex;
     
 }
