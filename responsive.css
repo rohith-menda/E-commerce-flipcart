@@ -30,6 +30,6 @@
        
     }
     .center{
-        margin-left: 77px;
+        justify-content:center;
     }
 }
