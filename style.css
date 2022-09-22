@@ -25,6 +25,7 @@ nav {
 .search{
     
     display: flex;
+    justify-content:center;
     position: relative;
     align-items: center;
     margin: 0 103px;
@@ -45,7 +46,9 @@ nav {
     display: flex;
     
 }
-
+.center{
+   display:flex;
+}
     
 nav ul{
     height: 50px;
